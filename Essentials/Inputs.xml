@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+    <inputs>
+        <actions>
+            <input name="AutoSprint" loc="AutoSprint" />
+            <input name="AutoRun" loc="AutoRun" />
+            <input name="UAEarPlugsToggle" loc="EarPlugs" />
+        </actions>
+    </inputs>
+    <preset>
+        <input name="AutoSprint">
+            <btn name="kRight" />
+        </input>
+        <input name="AutoRun">
+            <btn name="kLeft" />
+        </input>
+        <input name="UAEarPlugsToggle">
+            <btn name="kN" />
+        </input>
+    </preset>
+</modded_inputs>
